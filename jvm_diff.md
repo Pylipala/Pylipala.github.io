@@ -1,5 +1,6 @@
-### `SimpleDateFormat`在Mac和Android模拟器里面对毫秒的标记大小写敏感不一样
-
+大小写敏感不一样也是不一样
+=======
+`SimpleDateFormat`在Mac和Android模拟器里面对毫秒的标记大小写敏感不一样。
 在Mac上，`yyyy-MM-dd HH:mm:ss.sss`和`yyyy-MM-dd HH:mm:ss.SSS`都工作，但是在Android模拟器上，小写的`sss`那个就不工作了。
 ```java
 import java.text.ParseException;

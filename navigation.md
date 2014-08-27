@@ -3,3 +3,4 @@
 [小服务器解决大问题](adhoc_server.md)
 [Android上的分组ListView](group_list.md)
 [情绪化的人类](nature_of_human.md)
+[清单是个好东西](list_is_good.md)

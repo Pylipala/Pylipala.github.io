@@ -4,3 +4,4 @@
 [Android上的分组ListView](group_list.md)
 [情绪化的人类](nature_of_human.md)
 [清单是个好东西](list_is_good.md)
+[技术债](tech_debt.md)

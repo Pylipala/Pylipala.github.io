@@ -5,3 +5,5 @@
 [情绪化的人类](nature_of_human.md)
 [清单是个好东西](list_is_good.md)
 [技术债](tech_debt.md)
+[生活不易](qingdao.md)
+[常熟游记](changshu.md)

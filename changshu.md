@@ -24,4 +24,8 @@
 
 果然保险就是骗子，一定要客人循规蹈矩，最后还是发生了意外才会赔偿。这概率得多低啊。鸡蛋里面也能挑骨头呢。
 
+![虞山风光](mountain_yu.jpg)
+![虞山风光](mountain_yu_mushroom.jpg)
+![虞山风光](mountain_yu_tree.jpg)
+
 平安是福

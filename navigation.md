@@ -7,3 +7,4 @@
 [技术债](tech_debt.md)
 [生活不易](qingdao.md)
 [常熟游记](changshu.md)
+[小心开车](carefully_drive.md)

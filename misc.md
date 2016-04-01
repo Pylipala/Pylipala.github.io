@@ -1,6 +1,6 @@
-=canvas大小=
+#canvas大小
 遇到一个诡异的问题，如下代码
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,7 +21,7 @@
 ![绘制失败](drawCanvasNoDirectWidthHeight.png)
 研究发现，canvas的大小要直接通过width和height属性来指定
 也就是说，这样才行
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

@@ -9,3 +9,4 @@
 [常熟游记](changshu.md)
 [小心开车](carefully_drive.md)
 [ReactNative实践笔记](reactnative.md)
+[杂七杂八](misc.md)
